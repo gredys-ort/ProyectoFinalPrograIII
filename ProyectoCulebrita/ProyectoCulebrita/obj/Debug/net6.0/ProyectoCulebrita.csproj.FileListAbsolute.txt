@@ -1,0 +1,30 @@
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.exe
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.deps.json
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.runtimeconfig.json
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.dll
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.pdb
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.csproj.AssemblyReference.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.AssemblyInfoInputs.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.AssemblyInfo.cs
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.csproj.CoreCompileInputs.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.dll
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\refint\ProyectoCulebrita.dll
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.pdb
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.genruntimeconfig.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Final Progra\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ref\ProyectoCulebrita.dll
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.exe
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.deps.json
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.runtimeconfig.json
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.dll
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ref\ProyectoCulebrita.dll
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\bin\Debug\net6.0\ProyectoCulebrita.pdb
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.dll
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ref\ProyectoCulebrita.dll
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.pdb
+C:\Users\Usuario\Desktop\ProyectoCulebrita\ProyectoCulebrita\obj\Debug\net6.0\ProyectoCulebrita.genruntimeconfig.cache
